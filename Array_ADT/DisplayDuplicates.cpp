@@ -52,7 +52,7 @@ int main()
     unsigned int size;
     while(1)
     {
-        cout<<"Enter the array size: ";
+        cout<<"Enter the array length: ";
         cin>>size;
         if(size > 0)
             break;
